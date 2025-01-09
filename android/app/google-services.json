@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190169579590",
+    "project_id": "nearbystore-4a026",
+    "storage_bucket": "nearbystore-4a026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190169579590:android:837e6797b20a6eddb58a47",
+        "android_client_info": {
+          "package_name": "com.example.team_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FyUhzaX-qoF9TEGHzfHvUyuK4e-ol94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
